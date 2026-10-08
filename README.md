@@ -2,8 +2,6 @@ Your Terminal. Your Workspace. Your Rules.
 
 Developer Command Center & Project Launcher for Windows
 
-Created and Developed by GianCarlozxc
-
 About DevQore
 
 DevQore is an independently developed desktop application designed to redefine the Windows development experience.
